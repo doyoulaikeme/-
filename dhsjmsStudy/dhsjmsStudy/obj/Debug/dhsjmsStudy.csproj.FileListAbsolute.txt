@@ -1,0 +1,6 @@
+E:\新建文件夹 (4)\dhsjmsStudy\dhsjmsStudy\bin\Debug\dhsjmsStudy.exe.config
+E:\新建文件夹 (4)\dhsjmsStudy\dhsjmsStudy\bin\Debug\dhsjmsStudy.exe
+E:\新建文件夹 (4)\dhsjmsStudy\dhsjmsStudy\bin\Debug\dhsjmsStudy.pdb
+E:\新建文件夹 (4)\dhsjmsStudy\dhsjmsStudy\obj\Debug\dhsjmsStudy.csprojResolveAssemblyReference.cache
+E:\新建文件夹 (4)\dhsjmsStudy\dhsjmsStudy\obj\Debug\dhsjmsStudy.exe
+E:\新建文件夹 (4)\dhsjmsStudy\dhsjmsStudy\obj\Debug\dhsjmsStudy.pdb
